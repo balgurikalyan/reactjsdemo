@@ -1,0 +1,25 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: left;
+    padding-left: 130mm;
+    background-color: #a1a1f1;
+}
+.Nav-link{
+    text-decoration: none;
+    padding: 5mm;
+    color: red;
+}
+.Nav-link:hover{
+    color: darkblue;
+}
+.links{
+    padding-left: 90mm;
+}
+h1{
+    padding-left: 3mm;
+}
+.navbar img{
+    max-width: 4vmin;
+}
